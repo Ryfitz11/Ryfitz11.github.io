@@ -16,19 +16,20 @@ const Hero = () => {
       <div className="container mx-auto text-center max-w-3xl">
         <h1 className="text-4xl md:text-6xl font-bold leading-tight mb-6">
           <span className="bg-gradient-to-r from-indigo-400 via-purple-500 to-pink-500 bg-clip-text text-transparent">
-            BlockTix
+            Web3 & Blockchain
           </span>
           <br />
-          NFT Ticketing Platform
+          Developer
         </h1>
 
         <p className="text-xl md:text-2xl text-gray-300 mb-8 leading-relaxed">
-          Revolutionizing event ticketing through blockchain technology
+          Building the decentralized future, one block at a time
         </p>
 
         <div className="bg-gray-800/70 backdrop-blur-sm p-6 rounded-xl shadow-lg border border-gray-700 max-w-2xl mx-auto mb-10">
           <p className="text-gray-300 leading-relaxed">
-            "BlockTix is a decentralized ticketing platform that empowers venues to create and manage their own NFT-based ticket sales. Using the EventTicketFactory smart contract, venues can deploy custom ticketing solutions while ensuring secure and transparent transactions on the blockchain."
+            Motivated and detail-oriented professional seeking an entry-level opportunity in software development,
+            eager to apply a strong technical background and problem-solving skills.
           </p>
         </div>
 
