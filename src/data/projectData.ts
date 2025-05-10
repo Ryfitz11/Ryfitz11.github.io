@@ -13,5 +13,5 @@ export const project = {
   ],
   githubUrl: 'https://github.com/Ryfitz11/NFT-Tickets',
   liveUrl: 'https://block-tix.netlify.app/',
-  demoUrl: 'https://www.youtube.com/watch?v=fVsiR9CxX-4&t=5s'
+  demoUrl: 'https://youtu.be/C047T_j_to4?si=hmLvtVrrCBtwTFxD'
 };
